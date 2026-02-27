@@ -1,0 +1,8 @@
+---
+bastion_ami: ami-0beaa649c482330f7
+region: us-east-2
+
+MYIP: 106.215.179.209/32
+
+keyName: vprofile-key
+instanceType: t2.micro
